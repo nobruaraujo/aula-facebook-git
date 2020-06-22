@@ -1,2 +1,4 @@
 # aula-facebook-git
-Aula introdução ao Git e GitHub pela Digital House
+Aula introdução ao Git e GitHub pela Digital House.
+
+Alterando meu arquivo README.
